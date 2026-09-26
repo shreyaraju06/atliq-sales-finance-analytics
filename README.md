@@ -32,10 +32,10 @@ Top new products: AQ Qwerty ($22M), AQ Trigger ($20.7M), AQ Gen Y ($19.5M)
 India led all markets at $161.3M, followed by the USA at $87.8M
 Most markets grew YoY; New Zealand, Norway, and Austria declined
 Several customers recorded >300% YoY growth, flagging strong account-level opportunities
+
 💰 Finance Analysis
 
-Reports Developed
-
+**Reports Developed**
 Yearly Profit & Loss (P&L)
 Monthly P&L Comparison
 Market-Specific P&L
